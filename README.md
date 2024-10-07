@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nadipalli.sandeep8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VJe_5hVSRM_2T0ywIW0TrlbSnUgduldg/view?usp=sharing](https://drive.google.com/file/d/1VJe_5hVSRM_2T0ywIW0TrlbSnUgduldg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VJe_5hVSRM_2T0ywIW0TrlbSnUgduldg/view?usp=sharing](https://drive.google.com/file/d/1L72nkeE4DURa3LEaax68Pz8Az4pTnzuL/view?usp=sharing)
 
 - ⚡ Fun fact **Never been funny..!But always funny..😂✨**
 

@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*dRpCFDfCC1WUAdE6SB74zA.gif)
-<h1 align="center">Hi 👋, I'm Jaya Sandeep Narasimha Chowdhary Nadipalli</h1>
+<h1 align="center">Hi 👋, I'm Jaya Sandeep </h1>
 <h3 align="center">A passionate AI and ML Engineer from India</h3>
 
 

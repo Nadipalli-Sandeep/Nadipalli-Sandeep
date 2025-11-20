@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 - 🔭 I’m currently working on LLM's,Vision Models
 
-- 🌱 I’m currently learning **Prompt Engineering, Deep Learning, Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Generative AI Models**
 

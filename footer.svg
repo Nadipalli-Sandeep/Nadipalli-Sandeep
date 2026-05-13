@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00b4d8"/>
+      <stop offset="50%"  stop-color="#00ff88"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#000000"/>
+
+  <!-- Animated wave paths -->
+  <path fill="none" stroke="#00ff88" stroke-width="1.5" opacity="0.4"
+    d="M0,60 C100,30 200,90 300,60 S500,30 600,60 S800,90 900,60">
+    <animate attributeName="d"
+      values="M0,60 C100,30 200,90 300,60 S500,30 600,60 S800,90 900,60;
+              M0,60 C100,90 200,30 300,60 S500,90 600,60 S800,30 900,60;
+              M0,60 C100,30 200,90 300,60 S500,30 600,60 S800,90 900,60"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="none" stroke="#00b4d8" stroke-width="1" opacity="0.3"
+    d="M0,70 C100,40 200,100 300,70 S500,40 600,70 S800,100 900,70">
+    <animate attributeName="d"
+      values="M0,70 C100,40 200,100 300,70 S500,40 600,70 S800,100 900,70;
+              M0,70 C100,100 200,40 300,70 S500,100 600,70 S800,40 900,70;
+              M0,70 C100,40 200,100 300,70 S500,40 600,70 S800,100 900,70"
+      dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Fade to black fill under wave -->
+  <path fill="#000000"
+    d="M0,80 C100,55 200,105 300,80 S500,55 600,80 S800,105 900,80 L900,120 L0,120 Z">
+    <animate attributeName="d"
+      values="M0,80 C100,55 200,105 300,80 S500,55 600,80 S800,105 900,80 L900,120 L0,120 Z;
+              M0,80 C100,105 200,55 300,80 S500,105 600,80 S800,55 900,80 L900,120 L0,120 Z;
+              M0,80 C100,55 200,105 300,80 S500,55 600,80 S800,105 900,80 L900,120 L0,120 Z"
+      dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Stars / particles -->
+  <g fill="white">
+    <circle cx="100" cy="30" r="1"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0s"/></circle>
+    <circle cx="250" cy="50" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" begin="0.5s"/></circle>
+    <circle cx="450" cy="20" r="1"><animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" begin="1s"/></circle>
+    <circle cx="650" cy="40" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="0.3s"/></circle>
+    <circle cx="800" cy="25" r="1"><animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" begin="0.8s"/></circle>
+    <circle cx="340" cy="35" r="1"><animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="1.2s"/></circle>
+    <circle cx="560" cy="55" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite" begin="0.6s"/></circle>
+  </g>
+
+  <!-- Gradient footer text -->
+  <text x="450" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-size="10"
+        letter-spacing="3" fill="url(#footerGrad)" opacity="0.7">
+    ALWAYS LEARNING  ·  ALWAYS BUILDING  ·  ALWAYS SHIPPING
+  </text>
+</svg>

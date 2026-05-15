@@ -5,6 +5,12 @@
 
 <div align="center">
 
+# 🌍 [► LAUNCH INTERACTIVE EXPERIENCE ◄](https://nadipalli-sandeep.github.io/Nadipalli-Sandeep/index.html)
+
+> **Click the link above** for interactive experience 
+
+<div align="center">
+
 <!-- ═══════════════════════════════════════════════════ -->
 <!--  SandeepOS — Animated Desktop (custom SVG)         -->
 <!-- ═══════════════════════════════════════════════════ -->

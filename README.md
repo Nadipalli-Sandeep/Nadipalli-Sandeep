@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🌍 [► LAUNCH INTERACTIVE EXPERIENCE ◄](https://nadipalli-sandeep.github.io/profile.html)
+# 🌍 [► LAUNCH INTERACTIVE EXPERIENCE ◄](https://nadipalli-sandeep.github.io/index.html)
 
 > **Click the link above** for the full Hollywood-grade interactive experience —  
 > rotating 3D Earth · glowing skill pins · click any pin to open the skill website · warp particles · cinematic intro
